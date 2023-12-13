@@ -1,0 +1,2 @@
+SUBI R1,R0,1
+BNEZ R5,0
